@@ -25,6 +25,13 @@ Behavioral
 >
 >**Source:** [wikipedia.org](http://en.wikipedia.org/wiki/Behavioral_pattern)
 
+🐯 Chain Of Responsibility
+--------------------------
+
+The chain of responsibility pattern is used to process varied requests, each of which may be dealt with by a different handler.
+
+>**Further Examples:** [Design Patterns in Swift](https://github.com/kingreza/Swift-Chain-Of-Responsibility)
+
 Creational
 ==========
 
